@@ -1,0 +1,9 @@
+body{
+       background: url(".../img/back_senha.jpg") repeat 0 0;
+       opacity: 0.9;
+      background-color: #444;
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
